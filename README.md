@@ -9,3 +9,7 @@ Uma lista de links que podem ajudar
 ## Banco de Dados
 
 * [Spring JPA Guide](http://www.spring.io/guides/gs/accessing-data-jpa/) - um guia de como usar JPA com o Spring-Boot. Inclui uma query customizada no CrudRepository. Vale a pena dar uma olhada.
+
+## Gradle/Maven
+
+* [Building Java Projects with Gradle](http://www.spring.io/guides/gs/gradle/) - um guia de como construir um projeto Java do zero usando Gradle.
