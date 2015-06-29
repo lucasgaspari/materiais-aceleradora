@@ -13,3 +13,7 @@ Uma lista de links que podem ajudar
 ## Gradle/Maven
 
 * [Building Java Projects with Gradle](http://www.spring.io/guides/gs/gradle/) - um guia de como construir um projeto Java do zero usando Gradle. **EM INGLÊS**
+
+## Thymeleaf
+
+* [Documentação Oficial](http://www.thymeleaf.org/documentation.html) - documentação oficial, com tutoriais e alguns artigos. **EM INGLÊS**  
