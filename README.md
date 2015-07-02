@@ -17,3 +17,7 @@ Uma lista de links que podem ajudar
 ## Thymeleaf
 
 * [Documentação Oficial](http://www.thymeleaf.org/documentation.html) - documentação oficial, com tutoriais e alguns artigos. **EM INGLÊS**  
+
+## JavaScript
+
+* [Livro - Eloquent JavaScript](http://www.eloquentjavascript.net/) - excelente livro grátis para aprender JavaScript. **EM INGLÊS**  
