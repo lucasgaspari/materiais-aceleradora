@@ -17,6 +17,7 @@ Uma lista de links que podem ajudar
 ## Thymeleaf
 
 * [Documentação Oficial](http://www.thymeleaf.org/documentation.html) - documentação oficial, com tutoriais e alguns artigos. **EM INGLÊS**  
+* [Como utilizar internacionalização](http://stackoverflow.com/questions/29532172/how-to-display-messages-in-thymeleaf-and-spring-boot) - como configurar mensagens i18n e utilizar `th:text="#{...}"`
 
 ## JavaScript
 
