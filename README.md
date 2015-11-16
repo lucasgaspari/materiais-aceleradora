@@ -11,10 +11,15 @@ Uma lista de links que podem ajudar
 * [RSpec Rails](https://github.com/rspec/rspec-rails) - framework para BDD. **EM INGLÊS** 
 * [Capybara](https://github.com/jnicklas/capybara) - framework para testes de aceitação. **EM INGLÊS** 
 * [A Guide to Testing Rails Apps](http://guides.rubyonrails.org/testing.html) - guia de testes oficial do Rails, pra ter uma idéia. **EM INGLÊS**
+* [Apostila Caelum](https://www.caelum.com.br/apostila-ruby-on-rails/) - ótima apostila, com um projeto completo. **EM PORTUGUÊS**
 
 ## JavaScript
 
-* [Livro - Eloquent JavaScript](http://www.eloquentjavascript.net/) - excelente livro grátis para aprender JavaScript. **EM INGLÊS**  
+* [Livro - Eloquent JavaScript](http://www.eloquentjavascript.net/) - excelente livro grátis para aprender JavaScript. **EM INGLÊS** 
+
+## Desenvolvimento Web (HTML - CSS - JavaScript)
+
+* [Apostila Caelum](https://www.caelum.com.br/apostila-html-css-javascript/) - apostila da Caelum, não cheguei a utilizar, mas deve ser boa. **EM PORTUGUÊS**
 
 ## Linux/Shell
 
