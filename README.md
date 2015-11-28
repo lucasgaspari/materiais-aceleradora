@@ -13,6 +13,7 @@ Uma lista de links que podem ajudar
 * [A Guide to Testing Rails Apps](http://guides.rubyonrails.org/testing.html) - guia de testes oficial do Rails, pra ter uma idéia. **EM INGLÊS**
 * [Apostila Caelum](https://www.caelum.com.br/apostila-ruby-on-rails/) - ótima apostila, com um projeto completo. **EM PORTUGUÊS**
 * [Exemplos de testes usando RSpec-Rails](https://github.com/eliotsykes/rspec-rails-examples) - vários exemplos com várias gems. **EM INGLÊS**
+* [Awesome list de gems para usar com Rails](https://github.com/hothero/awesome-rails-gem) - muita gem útil aí
 
 ## JavaScript
 
