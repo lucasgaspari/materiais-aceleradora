@@ -28,3 +28,8 @@ Uma lista de links que podem ajudar
 * [The Linux Tutorial](http://www.linux-tutorial.info/modules.php?name=MContent&pageid=224) - um tutorial bem abrangente de Linux. **EM INGLÊS**  
 * [Livro - The Linux Command Line](http://linuxcommand.org/tlcl.php) - livro em licença Creative Commons - 537 páginas :) **EM INGLÊS**  
 * [Viva o Linux](http://www.vivaolinux.com.br/linux/) - conhecida comunidade brasileira de Linux. Bastante material. **EM PORTUGUÊS**
+
+##Git
+
+* [Git - Guia Prático](http://rogerdudler.github.io/git-guide/index.pt_BR.html) - Tutorial básico de git. **EM PORTUGUÊS**
+* [Try Git](https://try.github.io/levels/1/challenges/1) - Curso de Git do CodeSchool. **EM INGLÊS**
