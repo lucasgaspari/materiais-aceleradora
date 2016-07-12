@@ -29,7 +29,11 @@ Uma lista de links que podem ajudar
 * [Livro - The Linux Command Line](http://linuxcommand.org/tlcl.php) - livro em licença Creative Commons - 537 páginas :) **EM INGLÊS**  
 * [Viva o Linux](http://www.vivaolinux.com.br/linux/) - conhecida comunidade brasileira de Linux. Bastante material. **EM PORTUGUÊS**
 
-##Git
+## Git
 
-* [Git - Guia Prático](http://rogerdudler.github.io/git-guide/index.pt_BR.html) - Tutorial básico de git. **EM PORTUGUÊS**
-* [Try Git](https://try.github.io/levels/1/challenges/1) - Curso de Git do CodeSchool. **EM INGLÊS**
+* [Git - Guia Prático](http://rogerdudler.github.io/git-guide/index.pt_BR.html) - tutorial básico de git. **EM PORTUGUÊS**
+* [Try Git](https://try.github.io/levels/1/challenges/1) - curso de Git do CodeSchool. **EM INGLÊS**  
+
+## Debugging
+
+* [How to find a bug in your code](http://blog.8thlight.com/doug-bradbury/2016/06/29/how-to-find-bug-in-your-code.html) - dicas simples. **EM INGLÊS**
